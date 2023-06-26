@@ -1,0 +1,67 @@
+body{
+    background-color: #222222;
+}
+
+.MB1{
+    color: #A57D65;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-shadow: 1px 1px white;
+    border-style: dotted;
+    border-width: thick;
+
+}
+
+.image{
+    margin-right: 10px;
+    width: 9%;
+  height: auto; /* Mantém a proporção original da imagem */
+
+}
+
+.sub1{
+   color: #A57D65;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-right: 20px;
+}
+.cafeex{
+    color: #A57D65;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.cafeexx{
+    color: #DFC9BC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.starbucks{
+    color: #A57D65;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.starbuckss{
+    color: #DFC9BC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.late{
+    color: #A57D65;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.latee{
+    color: #DFC9BC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.cf{
+    width: 13%;
+    height=auto;
+    text-align: center;
+
+}
